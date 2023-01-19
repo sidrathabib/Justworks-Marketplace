@@ -12,7 +12,7 @@ class WebsiteForm extends React.Component {
     }
   
     handleSubmit(event) {
-      alert('A website was submitted: ' + this.state.value);
+      alert('A website was submitted:' + this.state.value);
       event.preventDefault();
     }
   
