@@ -14,10 +14,8 @@ The Sprinterns: Hafeefa Sultan, Rachel Cyren, Naomi Williams, Tong Lin, and myse
 
 ![Screenshot of Homepage](homepage.png)
 
-
 ## Sid's Take
 This was my first time working with a team in a professional setting in comparison to remote mini projects I've done in the past in programs. I got to learn about the life of Software Engineer in a real-world setting and it was quite the experience. It's a shame it only lasted a month, so I'm hoping to come back next summer to get the full deal! I'll see you soon Justworks. Thank you to everyone who supported us. I wanted to give a special thank to all the different employees that talked to us about their specific roles, ranging from Front End and Back End developers to Lead Product Managers. I took so many notes, and it helped me understand the many paths I can take once I adopt the umbrella of Software Engineering itself. 
-
 
 <div dir="rtl">Sid</div>
 <div dir="rtl">Group-Project 1</div>
